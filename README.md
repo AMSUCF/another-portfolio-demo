@@ -8,14 +8,17 @@ into a gloriously over-the-top, **Lisa Frank–inspired** experience with *way* 
 
 | File | What it is |
 |------|------------|
-| [`index.html`](index.html) | The live, animated portfolio site 🌟 |
+| [`index.html`](index.html) | 🦄 **Landing page** — a dancing unicorn disco that leads into the portfolio 💃 |
+| [`portfolio.html`](portfolio.html) | The live, animated portfolio site 🌟 |
 | [`PORTFOLIO.md`](PORTFOLIO.md) | The portfolio content in plain Markdown 📝 |
+| [`assets/landing.css`](assets/landing.css) / [`landing.js`](assets/landing.js) | The dancing-unicorn disco effects 🪩 |
 | [`assets/styles.css`](assets/styles.css) | All the rainbow gradients, glow, wobble & sparkle 💖 |
 | [`assets/script.js`](assets/script.js) | Floating emoji sky, sparkle cursor trail, confetti, counters 🐬 |
 | `2026_Salter_CV.docx` | The original source CV 📄 |
 
 ## ✨ The "too much animation" feature list
 
+- 🦄 A **dancing unicorn** disco landing page (with disco ball, sweeping spotlights & floating music notes) 💃
 - 🌈 Animated rainbow gradient background that never stops shifting
 - 🦄 Floating emoji sky (unicorns, dolphins, rainbows, hearts) drifting upward
 - ✨ Sparkle cursor trail that follows your every move
